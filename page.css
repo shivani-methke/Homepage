@@ -1,5 +1,5 @@
 body {
-    background-color: papayawhip;
+    background-color:papayawhip;
 }
 
 .logo {
@@ -51,7 +51,7 @@ header {
     justify-content: space-between;
 }
 
-.under {
+.image{
     width: 35vw;
     height: 90vh;
 
@@ -67,7 +67,7 @@ header {
     position: relative;
     bottom: 30rem;
     left: 14rem;
-    background-color: rgb(130, 182, 165);
+    background-color: pink;
     bottom: 550px;
     width: 50vw;
     height: 60vh;
